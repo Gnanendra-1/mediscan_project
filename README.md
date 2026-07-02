@@ -55,7 +55,7 @@ MEDI_SCAN_PROJECT/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/MEDI_SCAN_PROJECT.git
-git clone https://github.com/dineshpushadapu/mediscan_project.git
+git clone https://github.com/Gnanendra-1/mediscan_project.git
 cd MEDI_SCAN_PROJECT
 ```
 
